@@ -31,3 +31,9 @@
     position: relative;
     min-height: 170px;
 }
+
+.vertical-bar{
+    width: 3px;
+    height: 100%;
+    background-color: #ff8333;
+}
