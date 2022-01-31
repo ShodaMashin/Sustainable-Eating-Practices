@@ -1,0 +1,33 @@
+.sidebar-button{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1.3rem;
+    font-size: 2rem;
+}
+
+.page-header{
+    text-align: center;
+    font-family: Impact;
+    letter-spacing: 3px;
+    padding: 2rem;
+    background-color: #2e3859;
+    color: #f9efe2;
+}
+
+.content-box{
+    background-color: #d3faff;
+    margin: 6rem 0;
+    border-radius: 1rem;
+    padding: 4rem;
+}
+
+.card-img-top{
+    height: 12rem;
+    object-fit: cover;
+}
+
+.card-body {
+    position: relative;
+    min-height: 170px;
+}
