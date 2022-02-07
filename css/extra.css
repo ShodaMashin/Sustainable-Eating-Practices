@@ -1,9 +1,10 @@
 .sidebar-button{
-    position: absolute;
+    background: #ffffff;
+    width: 100%;
+    position: fixed;
     top: 0;
     left: 0;
-    margin: 1.3rem;
-    font-size: auto;
+    padding: 1.3rem;
 }
 
 .page-header{
@@ -28,7 +29,6 @@
 .annotation{
     font-size: 14px;
     font-style: italic;
-    color: grey;
 }
 
 h1{
