@@ -26,6 +26,11 @@
     color: #f9efe2;
 }
 
+a{
+    color: #ffd094;
+    text-decoration: none;
+}
+
 .annotation{
     font-size: 14px;
     font-style: italic;
@@ -62,6 +67,10 @@ h2{
     width: 3px;
     height: 100%;
     background-color: #ff8333;
+}
+
+.primary{
+    color: #ff8333;
 }
 
 @media (max-width: 991.98px) {
